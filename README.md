@@ -1,4 +1,4 @@
-### olá, eu sou simonera2
+### olá, eu sou Joao_Vitor
 
 - 🔭 não tenho emprego
 - 🌱 estou estudando java e C#

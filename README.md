@@ -1,6 +1,6 @@
 ### olá, eu me chamo João Vitor
 
-- 🌱 estou estudando java e C#
+- 🌱 estou estudando python e SQL
 - 📫 joaovitor26.2002@gmail.com
  <div>
   <a href="https://github.com/simonera2">

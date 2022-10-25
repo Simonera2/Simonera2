@@ -1,7 +1,7 @@
 ### olá, eu me chamo João Vitor
 
 - 🌱 estou estudando java e C#
-- 📫 contate-me: joaovitor26.2002@gmail.com
+- 📫 joaovitor26.2002@gmail.com
 <div>
   <a href="https://github.com/simonera2">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=simonera2&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>

@@ -1,6 +1,5 @@
 ### Olá, eu me chamo João Vitor
 
-- 🌱 estou estudando python e SQL
 - 📫 joaovitor26.2002@gmail.com 
   ##
   
